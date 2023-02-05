@@ -1,0 +1,18 @@
+# Ignore intermediate files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.xdv
+*.xml
+*.xdv
+*.out
+*.gz
+*.fdb_latexmk
+*.fls
+*.synctex(busy)
+# Ignore the compiled files
+main.pdf
+
+# Ignore the logs
+*.log
